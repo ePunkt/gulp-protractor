@@ -38,7 +38,7 @@
     "dargs": "^5.1.0",
     "event-stream": "~3.3.0",
     "gulp-util": ">=2.2.14 <4.0.0",
-    "protractor": "^5"
+    "protractor": "5.1.2"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",
